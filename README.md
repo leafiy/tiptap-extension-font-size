@@ -1,0 +1,1 @@
+# tiptap-extension-font-size
